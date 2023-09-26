@@ -17,3 +17,8 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 
 ## Data Model
 <img src="Datamodeling.png">
+
+#Data visualization
+<img src="Dashboard.png">
+
+Report link: https://www.novypro.com/project/taxi-trip-analysis
